@@ -1,7 +1,4 @@
-
-# **Coding Challenge** 🦅  
-
-# Project run instruction
+ # Project run instruction
 
 docker-compose up --build      --------------run via docker
 
